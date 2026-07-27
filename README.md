@@ -1,4 +1,4 @@
-# projecect1
+# stack_analysis
 +Project Overview
 
 This project focuses on AI-based Stock Market Sentiment Analysis using financial news articles and historical stock market data. The goal is to analyze the sentiment expressed in news articles and classify it as Positive, Neutral, or Negative, helping investors understand how news may influence stock prices. The project combines Natural Language Processing (NLP), Machine Learning, and Deep Learning techniques to build accurate sentiment classification models.
